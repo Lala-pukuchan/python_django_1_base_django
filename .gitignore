@@ -176,3 +176,4 @@ cython_debug/
 *.pdf
 django_venv/
 staticfiles/
+logs.txt
